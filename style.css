@@ -25,7 +25,7 @@ body {
         見出し
 -------------------- */
 
-h1, h2, h3 {
+h2, h3 {
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
 }
@@ -36,6 +36,11 @@ header {
   background-size: cover;
   background-position: center;
 }
+
+h1 {
+  color: white;
+  border: none;
+  font-size:48px;
 
 /* --------------------
         リンク
