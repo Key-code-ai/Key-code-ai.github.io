@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #00a0a0;
+  --theme-color: #4a90e2;
 }
 
 * {
@@ -42,8 +42,8 @@ header {
 -------------------- */
 
 a {
-  color: var(--theme-color);
-  text-decoration: none;
+  color: #0066cc;
+  text-decoration: underline;
 }
 
 /* --------------------
