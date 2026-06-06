@@ -36,6 +36,7 @@ header {
   background-image: url("AIT854d149_TP_V.jpg");
   background-size: cover;
   background-position: center;
+  margin: -30px -30px 0 -30px;
 }
 
 header h1 {
